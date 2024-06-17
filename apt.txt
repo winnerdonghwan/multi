@@ -1,0 +1,5 @@
+poppler-utils
+tesseract-ocr
+tesseract-ocr-por
+libgl1
+sqlite3
